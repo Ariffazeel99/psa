@@ -2,4 +2,4 @@
 Psa-Erlangen
 
 # # First Timmers
-[First time]()
+[First time](wiki/First-Time-in-Nuremberg‐Erlangen)
