@@ -51,3 +51,11 @@ Psa-Erlangen
 [Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
 
 [Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
+
+ for main.py llms
+
+pip install pyenv-win
+pip install virtualenv
+virtualenv venv
+pip install typer openai python-dotenv
+pip install typer openai python-dotenv
