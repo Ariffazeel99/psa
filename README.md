@@ -10,6 +10,9 @@ Psa-Erlangen
 ## groups
 [Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
 
+## Pakistan Embassy Information
+[Information](psa/wiki/Pakistan-embassy-Information)
+
 Add new group info here :
 
 Accomudation :
