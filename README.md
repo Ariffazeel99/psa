@@ -10,52 +10,6 @@ Psa-Erlangen
 ## groups
 [Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
 
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
+Add new group info here :
 
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-## groups 2
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
-[Finding Jobs](https://github.com/Ariffazeel99/psa/wiki/Finding-Jobs)
-
- for main.py llms
-
-pip install pyenv-win
-pip install virtualenv
-virtualenv venv
-pip install typer openai python-dotenv
-pip install typer openai python-dotenv
+Accomudation :
